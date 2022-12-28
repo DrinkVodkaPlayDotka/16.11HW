@@ -1,0 +1,15 @@
+D:\C#\HWon16.11\HWon16.11\bin\Debug\net6.0\HWon16.11.exe
+D:\C#\HWon16.11\HWon16.11\bin\Debug\net6.0\HWon16.11.deps.json
+D:\C#\HWon16.11\HWon16.11\bin\Debug\net6.0\HWon16.11.runtimeconfig.json
+D:\C#\HWon16.11\HWon16.11\bin\Debug\net6.0\HWon16.11.dll
+D:\C#\HWon16.11\HWon16.11\bin\Debug\net6.0\HWon16.11.pdb
+D:\C#\HWon16.11\HWon16.11\obj\Debug\net6.0\HWon16.11.csproj.AssemblyReference.cache
+D:\C#\HWon16.11\HWon16.11\obj\Debug\net6.0\HWon16.11.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\HWon16.11\HWon16.11\obj\Debug\net6.0\HWon16.11.AssemblyInfoInputs.cache
+D:\C#\HWon16.11\HWon16.11\obj\Debug\net6.0\HWon16.11.AssemblyInfo.cs
+D:\C#\HWon16.11\HWon16.11\obj\Debug\net6.0\HWon16.11.csproj.CoreCompileInputs.cache
+D:\C#\HWon16.11\HWon16.11\obj\Debug\net6.0\HWon16.11.dll
+D:\C#\HWon16.11\HWon16.11\obj\Debug\net6.0\refint\HWon16.11.dll
+D:\C#\HWon16.11\HWon16.11\obj\Debug\net6.0\HWon16.11.pdb
+D:\C#\HWon16.11\HWon16.11\obj\Debug\net6.0\HWon16.11.genruntimeconfig.cache
+D:\C#\HWon16.11\HWon16.11\obj\Debug\net6.0\ref\HWon16.11.dll
